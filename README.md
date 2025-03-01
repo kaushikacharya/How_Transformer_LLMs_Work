@@ -10,4 +10,5 @@
 |#|     Lesson  |   Description   |
 |-|-------------|-----------------|
 |0|[Introduction](./notes/Lesson_0.md)|<ul><li>Transformer outline</li><li>Course outline</li></ul>|
-|0|[Understanding Language Models: Language as a Bag-of-Words](./notes/Lesson_1.md)|<ul><li>Evolution of numerical representation of language</li><li>Example of Bag-of-Words' vector representation </li></ul>|
+|1|[Understanding Language Models: Language as a Bag-of-Words](./notes/Lesson_1.md)|<ul><li>Evolution of numerical representation of language</li><li>Example of Bag-of-Words' vector representation</li></ul>|
+|2|[Understanding Language Models: (Word) Embeddings](./notes/Lesson_2.md)|<ul><li>Drawbacks of Bag-of-Words</li><li>Word2Vec explanation</li></ul>|
