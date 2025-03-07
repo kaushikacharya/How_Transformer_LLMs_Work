@@ -11,6 +11,7 @@ This repository contains
 
 - Instructor: Sebastian Witalec (Head of Developer Relations at Weaviate)
 - [Course Website](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+- Additional resources (collected for better understanding of the concepts)
 
 ## Course Contents
 
@@ -27,4 +28,4 @@ This repository contains
 
   |Lesson|         Assignment        |   Description   |
   |-------|---------------------------|-----------------|
-  |#5|[Comparing Trained LLM Tokenizers](./notes/Lesson_5.md#notebook)|<ul><li>Explore tokenization by different tokenizers</li></ul>|
+  |#5|[Comparing Trained LLM Tokenizers](./notes/Lesson_5.md#notebook)|<ul><li>Explore tokenization by different tokenizers</li><li>Visualize tokens in different colors using ANSI escape codes </li></ul>|
