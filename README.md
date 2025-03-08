@@ -24,6 +24,7 @@ This repository contains
 |4|[Understanding Language Models: Transformers](./notes/Lesson_4.md)|<ul><li>Transformer architecture</li><li>Representation vs Generative Models</li><li>Context Length</li><li>Evolution of Generative AI over recent years</li></ul>|
 |5|[Tokenizers](./notes/Lesson_5.md)|<ul><li>Contextualized embeddings</li><li>Tokenization</li></ul>|
 |6|[Architectural Overview](./notes/Lesson_6.md)|<ul><li>Three major components of transformer LLM</li><li>Parallel processing of tokens</li><li>KV Caching</li></ul>|
+|7|[The Transformer Block](./notes/Lesson_7.md)|<ul><li>Feedforward Neural Network intuition</li><li>Self-Attention intuition</li></ul>|
 
 ## Assignments
 
