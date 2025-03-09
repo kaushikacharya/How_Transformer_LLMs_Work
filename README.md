@@ -26,9 +26,11 @@ This repository contains
 |6|[Architectural Overview](./notes/Lesson_6.md)|<ul><li>Three major components of transformer LLM</li><li>Parallel processing of tokens</li><li>KV Caching</li></ul>|
 |7|[The Transformer Block](./notes/Lesson_7.md)|<ul><li>Feedforward Neural Network intuition</li><li>Self-Attention intuition</li></ul>|
 |8|[Self-Attention](./notes/Lesson_8.md)|<ul><li>Advanced techniques of Self-Attention for efficient computation</li></ul>|
+|9|[Model Example](./notes/Lesson_9.md)|<ul><li>Text generation using model from Hugging Face</li></ul>|
 
 ## Assignments
 
-  |Lesson|         Assignment        |   Description   |
-  |-------|---------------------------|-----------------|
-  |#5|[Comparing Trained LLM Tokenizers](./notes/Lesson_5.md#notebook)|<ul><li>Explore tokenization by different tokenizers</li><li>Visualize tokens in different colors using ANSI escape codes </li></ul>|
+|Lesson|         Assignment        |   Description   |
+|-------|---------------------------|-----------------|
+|#5|[Comparing Trained LLM Tokenizers](./notes/Lesson_5.md#notebook)|<ul><li>Explore tokenization by different tokenizers</li><li>Visualize tokens in different colors using ANSI escape codes</li></ul>|
+|#9|[Model Example](./notes/Lesson_9.md#notebook)|<ul><li>Text generation using `microsoft/Phi-3-mini-4k-instruct`</li></ul>|
