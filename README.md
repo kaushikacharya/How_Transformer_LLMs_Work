@@ -6,12 +6,12 @@ This repository contains
 
 - [Course notes](#course-contents)
 - [Assignments](#assignments)
+- Additional resources (collected for better understanding of the concepts)
 
 ## Course Information
 
-- Instructor: Sebastian Witalec (Head of Developer Relations at Weaviate)
+- Instructors: Jay Alammar, Maarten Grootendorst
 - [Course Website](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
-- Additional resources (collected for better understanding of the concepts)
 
 ## Course Contents
 
@@ -25,6 +25,7 @@ This repository contains
 |5|[Tokenizers](./notes/Lesson_5.md)|<ul><li>Contextualized embeddings</li><li>Tokenization</li></ul>|
 |6|[Architectural Overview](./notes/Lesson_6.md)|<ul><li>Three major components of transformer LLM</li><li>Parallel processing of tokens</li><li>KV Caching</li></ul>|
 |7|[The Transformer Block](./notes/Lesson_7.md)|<ul><li>Feedforward Neural Network intuition</li><li>Self-Attention intuition</li></ul>|
+|8|[Self-Attention](./notes/Lesson_8.md)|<ul><li>Advanced techniques of Self-Attention for efficient computation</li></ul>|
 
 ## Assignments
 
