@@ -36,3 +36,12 @@ This repository contains
 |-------|---------------------------|-----------------|
 |#5|[Comparing Trained LLM Tokenizers](./notes/Lesson_5.md#notebook)|<ul><li>Explore tokenization by different tokenizers</li><li>Visualize tokens in different colors using ANSI escape codes</li></ul>|
 |#9|[Model Example](./notes/Lesson_9.md#notebook)|<ul><li>Text generation using `microsoft/Phi-3-mini-4k-instruct`</li></ul>|
+
+## Certificate
+
+- [Course Completion Certificate](https://kaushikacharya.github.io/assets/certificates/DeepLearning_ai_How_Transformer_LLMs_Work.pdf)
+- Issued on Mar 2025
+
+## Related Courses
+
+Please visit my [Github page](https://kaushikacharya.github.io/courses/#generative-ai--large-language-models-llm) for other Generative AI/ LLM courses.
