@@ -28,6 +28,7 @@ This repository contains
 |8|[Self-Attention](./notes/Lesson_8.md)|<ul><li>Advanced techniques of Self-Attention for efficient computation</li></ul>|
 |9|[Model Example](./notes/Lesson_9.md)|<ul><li>Text generation using model from Hugging Face</li></ul>|
 |10|[Recent Improvements](./notes/Lesson_10.md)|<ul><li>Efficient organization of training data</li><li>Rotatory Embeddings (RoPE)</li><li>Mixture of Experts (MoE)</li></ul>|
+|11|[Mixture of Experts (MoE)](./notes/Lesson_11.md)|<ul><li>MoE components: Experts & Router</li><li>Computational Requirements</li><li>Pros & Cons of MoE</li></ul>|
 
 ## Assignments
 
