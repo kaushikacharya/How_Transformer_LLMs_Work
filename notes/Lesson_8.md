@@ -7,7 +7,7 @@
   ![Relevance Scoring: End Goal](../images/8_1.png)
 
 - Recommended Course on Attention
-  - [Attention in Transformers: Concepts and Code in PyTorch](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)
+  - [Attention in Transformers: Concepts and Code in PyTorch](https://github.com/kaushikacharya/Attention_in_Transformers_Concepts_and_Code)
 
 - Combining Information from other tokens
   ![Combining Information](../images/8_2.png)
