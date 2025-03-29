@@ -12,5 +12,5 @@
   - 3072: Vector embedding dimension
 - Issues faced during local run
   - `RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu!`
-    - As suggested in [StackOver thread](https://stackoverflow.com/questions/66091226/runtimeerror-expected-all-tensors-to-be-on-the-same-device-but-found-at-least), move input also to CUDA
+    - As suggested in [StackOverflow thread](https://stackoverflow.com/questions/66091226/runtimeerror-expected-all-tensors-to-be-on-the-same-device-but-found-at-least), move input also to CUDA
       - Added `to(device)` in `input_ids.to(device)`
